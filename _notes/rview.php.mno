@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsreply" value="name:Reply_ID;datatype:int,name:R_Topic;datatype:int,name:R_Name;datatype:string,name:R_Icon;datatype:string,name:R_Mail;datatype:string,name:R_URL;datatype:string,name:R_MSN;datatype:string,name:R_Content;datatype:blob,name:R_IP;datatype:string,name:R_Date;datatype:datetime" />
+</info>
